@@ -28,7 +28,7 @@ In this model the link partition method is used with Retweet information informa
 
 #### 3. Node Classification:
 
-Tn this approach the Features are generated from Twitter API data and classify each node as Influencer and non-influencer using these three models.
+In this approach the Features are generated from Twitter API data and classify each node as Influencer and non-influencer using these three models.
 
   1.Random Forest
   
